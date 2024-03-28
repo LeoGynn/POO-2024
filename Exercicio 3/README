@@ -1,3 +1,6 @@
+Exercício 3: Escolha um dos exercícios do final da lição desta aula e produza uma resposta inédita ou com uma abordagem diferente das que já foram respondidas.
+
         Abordagem Classe Scanner
 
 O Scanner em Java é uma classe que permite a leitura de entrada do usuário a partir do teclado ou de outros fluxos de dados. Com o Scanner, você pode ler diferentes tipos de dados, como inteiros, números de ponto flutuante e strings. Além disso, é importante lembrar de fechar o Scanner quando não for mais necessário, para evitar o vazamento de dados. No geral, o Scanner é uma útil ferramenta quando se trata de interação com entradas de dados em programas Java.
+ No código-fonte criado temos uma fórmula matemática bastante conhecida, a fórmula de Bhaskara é uma maneira de encontrar as raízes de uma equação quadrática, que é uma equação polinomial de segundo grau. O código-fonte permite a entrada dos coeficientes/variáveis de uma equação, na qual o mesmo recebe essas entradas e fornece o resultado através da operação matemática fornecida pela classe Math, também é lançada uma excessão pra caso o delta/discriminante seja menor que zero.
