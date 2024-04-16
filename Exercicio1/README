@@ -1,0 +1,10 @@
+Faça a leitura do conteúdo sobre variáveis primitivas e controle de fluxo e com base no que aprendeu, forneça respostas para os seguintes exercícios:
+
+Exercício 1: Faça um programa que declare variáveis das idades inteiras dos seus familiares mais próximos e atribua valores para as mesmas. Em seguida, calcule as seguintes estatísticas atribuindo os valores como float:
+
+- a média da idade
+- as distâncias entre as idades e as médias
+- o desvio padrão
+- se a idade está acima ou abaixo da idade média
+
+Imprima cada valor estatístico calculado usando Strings.

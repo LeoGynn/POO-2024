@@ -1,0 +1,5 @@
+Faça a leitura do capítulo sobre Modificadores de Acesso e Construtores(https://www.alura.com.br/apostila-java-orientacao-objetos/modificadores-de-acesso-e-atributos-de-classe). A partir da leitura do conteúdo, faça a entrega da seguinte atividade neste fórum:
+
+- Criar uma classe com com três construtores, sendo um o construtor default;
+- Todos atributos desta classe devem ser privados, sendo um estático;
+- Criar outra classe Programa que teste todos os construtores e atributos da classe criada;
